@@ -2,10 +2,12 @@
 
 # Escopo:
 Aplicação gamificada desenvolvida para o treinamento fictício de funcionários de uma empresa de entregas.
+
 A aplicação ensina um funcionário fictício a pegar uma encomenda e entregar no local solicitado.
 
 # Controles:
 W,A,S,D - Movimentam o personagem
+
 Mouse(Clicar e arrastar) - controla a câmera
 
 Link da aplicação no ar:
